@@ -1,7 +1,7 @@
 {
   "name": "filmyverse",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://sarthakgit21.github.io/CinemaHood",
   "dependencies": {
     "@emotion/react": "^11.10.5",
