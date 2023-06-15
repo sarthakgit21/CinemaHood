@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sarthakgit21/CinemaHood/static/css/main.b11d540f.css",
-    "main.js": "/sarthakgit21/CinemaHood/static/js/main.80fc6e90.js",
-    "index.html": "/sarthakgit21/CinemaHood/index.html",
-    "main.b11d540f.css.map": "/sarthakgit21/CinemaHood/static/css/main.b11d540f.css.map",
-    "main.80fc6e90.js.map": "/sarthakgit21/CinemaHood/static/js/main.80fc6e90.js.map"
+    "main.css": "/CinemaHood/static/css/main.b11d540f.css",
+    "main.js": "/CinemaHood/static/js/main.95229c3b.js",
+    "index.html": "/CinemaHood/index.html",
+    "main.b11d540f.css.map": "/CinemaHood/static/css/main.b11d540f.css.map",
+    "main.95229c3b.js.map": "/CinemaHood/static/js/main.95229c3b.js.map"
   },
   "entrypoints": [
     "static/css/main.b11d540f.css",
-    "static/js/main.80fc6e90.js"
+    "static/js/main.95229c3b.js"
   ]
 }
